@@ -1,0 +1,13 @@
+[2026-06-15 07:22:00] [INFO] [com.example.library.BookControllerTest] - Starting BookControllerTest using Java 21.0.10 with PID 18956 (started by 2601m in D:\OneDrive\Máy tính\base-project-ss13)
+[2026-06-15 07:22:00] [DEBUG] [com.example.library.BookControllerTest] - Running with Spring Boot v3.2.5, Spring v6.1.6
+[2026-06-15 07:22:00] [INFO] [com.example.library.BookControllerTest] - No active profile set, falling back to 1 default profile: "default"
+[2026-06-15 07:22:02] [INFO] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] - Initializing Spring TestDispatcherServlet ''
+[2026-06-15 07:22:02] [INFO] [org.springframework.test.web.servlet.TestDispatcherServlet] - Initializing Servlet ''
+[2026-06-15 07:22:02] [INFO] [org.springframework.test.web.servlet.TestDispatcherServlet] - Completed initialization in 2 ms
+[2026-06-15 07:22:02] [INFO] [com.example.library.BookControllerTest] - Started BookControllerTest in 2.945 seconds (process running for 4.037)
+[2026-06-15 07:22:03] [DEBUG] [com.example.library.service.BookService] - Get book by id request, id: 99
+[2026-06-15 07:22:03] [ERROR] [com.example.library.service.BookService] - Book not found, id: 99
+[2026-06-15 07:22:03] [DEBUG] [com.example.library.service.BookService] - Get all books request
+[2026-06-15 07:22:03] [INFO] [com.example.library.service.BookService] - Get all books successfully, total: 2
+[2026-06-15 07:22:03] [DEBUG] [com.example.library.service.BookService] - Get book by id request, id: 1
+[2026-06-15 07:22:03] [INFO] [com.example.library.service.BookService] - Get book by id successfully, id: 1
